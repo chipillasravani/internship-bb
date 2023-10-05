@@ -1,0 +1,51 @@
+*{
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+.lightshadeblack {
+    background-color: #222429;
+    color: white;
+    padding: 5%;
+}
+
+ul{
+    list-style: none;
+    padding: 5%;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+ul, li{
+    /* line-height: 30px; */
+    font-family: sans-serif !important;
+    letter-spacing: 1px;
+}
+
+li{
+    transition: transform 2s;
+}
+
+li:hover{
+    transform: scale(1.1, 1.1);
+    z-index: 100;
+}
+
+.icon{
+    color: #FB5B21;
+}
+
+.btn-color{
+    background-color: #FB5B21;
+    color: white;
+}
+
+.subscribe{
+    padding: 10% !important;
+}
+
+p, .input-group{
+    /* line-height: 30px; */
+    font-family: sans-serif !important;
+    letter-spacing: 1px;
+    /* position: ; */
+}

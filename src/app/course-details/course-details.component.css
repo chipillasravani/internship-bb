@@ -1,0 +1,33 @@
+.pet1{
+    background-color:black; 
+    height:30px;
+}
+a{
+    text-decoration: none;
+    color: rgb(8, 0, 0);
+    text-align: center;
+    font-weight: bold;
+}
+a:hover{
+    color: blue;
+}
+.c{
+    padding-top: 30px;
+}
+.b{
+    text-align: center;
+}
+.r2{
+    background-image: linear-gradient(rgba(40, 120, 235, 0.9), rgba(40, 120, 235, 0.9)), url(../../assets/images/header.jpg);
+}
+.mb-5 {
+    margin-bottom: 3rem!important;
+}
+
+.mx-auto {
+    margin-right: auto!important;
+    margin-left: auto!important;
+}
+.col{
+    color: red;
+}
